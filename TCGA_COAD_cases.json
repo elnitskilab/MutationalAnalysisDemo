@@ -1,0 +1,3218 @@
+[{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28M"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6805"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A022"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6931"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2678"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3697"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-QG-A5YV"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6539"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6674"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6628"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6164"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-5M-AATE"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28F"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3982"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-6717"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3526"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6169"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-5900"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3520"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00J"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3693"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00O"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A0XF"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3977"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02E"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00E"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3949"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3561"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-A566"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6929"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2683"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3877"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3972"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-4N-A93T"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3867"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3684"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3980"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3855"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3994"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6653"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5666"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6923"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3862"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1D8"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00F"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3495"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-6719"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6650"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-5254"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5349"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-5796"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3519"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-QG-A5Z2"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01X"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3713"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3494"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02K"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4747"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4681"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3556"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02J"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6314"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A0XD"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3986"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1DB"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-A567"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3553"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6170"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00D"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3947"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6677"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3558"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01Z"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-5916"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6304"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Carcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02F"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-3809"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma with mixed subtypes"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3814"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3667"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-6751"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2686"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6317"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1D9"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-4952"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-QG-A5Z1"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-5539"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A50T"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6888"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3538"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-A71X"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A6GA"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-5255"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-A8YK"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A288"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3664"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-4951"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6678"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3821"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28H"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6895"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01T"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6315"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4615"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6536"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6463"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3845"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3930"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-5537"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3712"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6303"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5659"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6569"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5661"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AM-5821"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6311"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02W"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02R"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6532"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-4071"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3970"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-A5ZU"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01K"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2674"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6321"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6163"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6782"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5860"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6924"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-5541"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00A"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3496"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3517"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2685"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3984"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-5913"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6538"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3548"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6649"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6899"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3864"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3870"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5348"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1HA"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4684"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3666"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01I"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6461"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6307"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3554"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-T9-A92H"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A280"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-A5EK"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5667"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3872"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3673"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3518"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6704"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6529"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3850"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3975"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Papillary adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-6716"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28E"
+},{
+  "submitter_id": "TCGA-5M-AATA"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3524"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6780"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3529"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6898"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-5797"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6626"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3979"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3685"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-5540"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6605"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-3L-AA1B"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5656"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3831"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6652"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6293"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-QL-A97D"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-A565"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4308"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1D0"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6680"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-A5EJ"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-4948"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02O"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-4950"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3552"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A50V"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-5914"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A010"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6541"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A5IV"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-5403"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3866"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3696"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-6746"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-4070"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4748"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3971"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5660"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00Z"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5341"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AU-3779"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-7000"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6141"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3860"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-4105"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01R"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6703"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3543"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A03F"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-5538"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6460"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-RU-A8FL"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Papillary adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-6715"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6648"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3532"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AM-5820"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A004"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6137"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01S"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6808"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4315"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3511"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3695"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3966"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2682"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00K"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3852"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6294"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5868"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3544"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A285"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3680"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3819"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-A56B"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4313"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6168"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-6196"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-QG-A5YW"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3941"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenosquamous carcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3715"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3812"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6320"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2679"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6531"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6459"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28G"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00R"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3562"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2671"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2681"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6166"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-A69D"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6806"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3555"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-QG-A5YX"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6606"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2672"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-3807"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5665"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3510"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3842"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6625"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3976"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6599"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-6197"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-4107"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6932"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3846"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6607"
+},{
+  "submitter_id": "TCGA-5M-AAT5"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6530"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-6718"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3514"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6600"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3869"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A282"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6676"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3950"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3521"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3530"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3851"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-6748"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3815"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6533"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00L"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A8F7"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6890"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6855"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01D"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6928"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6297"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6309"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6142"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A029"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01P"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6140"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-SS-A7HO"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3525"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4323"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1D7"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-3808"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6165"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A6GC"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3952"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6920"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A6GB"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-3810"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6889"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1D6"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3506"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1HB"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3488"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01C"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3848"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3522"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3973"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6675"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6588"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6161"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3837"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6534"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2677"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6963"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6781"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5864"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5862"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6586"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A50U"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3560"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-WS-AB45"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6298"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6809"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4614"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28A"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3956"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-NH-A8F8"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3492"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6295"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6965"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2675"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AU-6004"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-5543"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4746"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-5M-AAT6"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3818"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6537"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1DA"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3967"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6322"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6548"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6172"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01G"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5861"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6171"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6310"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3955"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3875"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4752"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4750"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A1D4"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28C"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02Y"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6930"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6926"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A28K"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6540"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3662"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-DM-A0X9"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3854"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3531"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3841"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3672"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3660"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6654"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6927"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-6386"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3989"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5664"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3710"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6299"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6627"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6679"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2670"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5863"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6598"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3509"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00Q"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6167"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A02H"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6570"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4616"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01Q"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3679"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A03J"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4744"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01V"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-4947"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6138"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AY-A54L"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3675"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3542"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CA-5256"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3858"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2676"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6807"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A024"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3844"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3655"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-5M-AAT4"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6306"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3939"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6601"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-5915"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-6651"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3692"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6603"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3861"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6856"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3688"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00N"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma with neuroendocrine differentiation"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3811"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00U"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3549"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5662"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-5344"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3516"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2680"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4743"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-5657"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-5912"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-F4-6854"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CK-6747"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6535"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A017"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-D5-6922"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3489"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6323"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-4682"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-4T-AA8H"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-6162"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3833"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-CM-4751"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6964"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3663"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-A6-2684"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A01F"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3678"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-A00W"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3968"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3681"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Mucinous adenocarcinoma"
+    }
+  ], 
+  "submitter_id": "TCGA-G4-6302"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3534"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-6608"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3502"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AZ-5407"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AD-6901"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3527"
+},{
+  "diagnoses": [
+    {
+      "primary_diagnosis": "Adenocarcinoma, NOS"
+    }
+  ], 
+  "submitter_id": "TCGA-AA-3856"
+}]
