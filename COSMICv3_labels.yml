@@ -2,7 +2,7 @@
 '2': AID/APOBEC
 '13': AID/APOBEC
 '3': HR DDR defect
-'4': Tobacco
+'4': Tobacco smoking
 '10a': Polymerase epsilon
 '10b': Polymerase epsilon
 '14': Polymerase epsilon + MMR
@@ -21,3 +21,5 @@
 '46': Sequencing artifact
 '54': Sequencing artifact
 '84': AID
+'29': tobacco chewing
+
